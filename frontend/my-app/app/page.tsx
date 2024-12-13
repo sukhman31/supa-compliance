@@ -7,7 +7,7 @@ export default function Home() {
       <h2 className="m-12">Get compliant today. Figure out where you are going wrong.</h2>
       <p>
       <Button className="m-24">
-        <a href="/api/authorize">Let's begin!</a>
+        <a href="http://localhost:54321/authorize">Let's begin!</a>
       </Button>
       </p>
     </div>
